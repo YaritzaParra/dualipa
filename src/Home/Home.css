@@ -1,0 +1,21 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/musicosyp.appspot.com/o/dua-lipa_banner.jpg?alt=media&token=c36e01d3-5589-44ec-8230-0132c958b478');
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.banner2{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/musicosyp.appspot.com/o/Dua%20Lipa.png?alt=media&token=f87aa3a6-990a-4403-88c0-0de7140d283b');
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 15%;
+}
+.banner3{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/musicosyp.appspot.com/o/dua%202.jpg?alt=media&token=86138088-3bcf-49f1-9de4-a1aae71e3800');
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}

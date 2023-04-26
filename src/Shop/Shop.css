@@ -1,0 +1,11 @@
+.container1{
+    background-size: cover;
+    background-position: top center;
+    padding: 10%;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', cursive;
+    margin-top: 4%;
+}
